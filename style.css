@@ -5,7 +5,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url('https://img.freepik.com/free-vector/realistic-weather-widget_1284-4092.jpg?size=626&ext=jpg');
+  background-image: url('background.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
